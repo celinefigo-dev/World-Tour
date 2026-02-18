@@ -1,0 +1,36 @@
+{
+  "name": "world-tour",
+  "version": "1.0.0",
+  "description": "A World Tour website showcasing countries, capitals, population, and top attractions",
+  "main": "vite.config.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "npm run dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celinefigo-dev/World-Tour.git"
+  },
+  "keywords": [
+    "travel",
+    "world",
+    "tourism",
+    "countries",
+    "attractions"
+  ],
+  "author": "Celine Mafigu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celinefigo-dev/World-Tour/issues"
+  },
+  "homepage": "https://github.com/celinefigo-dev/World-Tour#readme",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "vite": "^5.4.21"
+  }
+}
